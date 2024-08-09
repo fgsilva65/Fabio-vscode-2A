@@ -1,0 +1,32 @@
+body {
+    color: rgb(230, 159, 29);
+    background: black;
+}
+
+header {
+    border-bottom: solid 3px rgb(42, 122, 228);
+    font-size: 32;
+    font-style: oblique;
+    margin: 10px;
+    padding: 10px;
+}
+
+ h1 {
+    color:aquamarine
+}
+
+p {
+    color:aquamarine
+}
+
+section {
+    background: rgb(45, 11, 82);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 4%;
+}
